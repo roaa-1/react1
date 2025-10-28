@@ -11,7 +11,7 @@ function App() {
     <>
     // Displays the top navigation bar and allows users to move between page sections
       <Navbar />
-      
+    // The main section that provides an overview of the website or the person
       <Hero />
       <Portfolio />
       <About />
