@@ -15,6 +15,7 @@ function App() {
       <Hero />
     // Shows previous projects or works in an organized and attractive way
       <Portfolio />
+    // Informational section about the website owner or individual
       <About />
       <Contact />
       <Footer />
