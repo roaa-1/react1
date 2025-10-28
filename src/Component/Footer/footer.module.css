@@ -1,0 +1,32 @@
+.footer{
+    background-color: #2C3E50 !important;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnSocial{
+    width: 40px;
+    height: 40px;
+    border-radius:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnSocial:hover img {
+    filter: grayscale(100%) brightness(0); 
+}
+.h4{
+    font-size: 24px;
+    font-weight: 700;
+}
+.link{
+    color: #1ABC9C !important;
+}
+.minFooter{
+    background-color: #1a252f !important;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

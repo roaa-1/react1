@@ -1,0 +1,14 @@
+.navbar{
+    background-color:#2C3E50 ;
+    padding: 20px;
+}
+.logo{
+    font-size: 28px;
+    font-weight: 700;
+}
+.navbarToggler{
+    background-color: #1ABC9C !important;
+}
+.navLink:hover{
+    color: #1ABC9C !important;
+}
