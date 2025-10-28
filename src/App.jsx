@@ -17,7 +17,9 @@ function App() {
       <Portfolio />
     // Informational section about the website owner or individual
       <About />
+    // Informational section about the website owner or individual
       <Contact />
+    // Appears at the bottom of the page and includes links or copyright info
       <Footer />
     </>
   )
