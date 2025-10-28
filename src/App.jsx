@@ -9,7 +9,9 @@ function App() {
 
   return (
     <>
+    // Displays the top navigation bar and allows users to move between page sections
       <Navbar />
+      
       <Hero />
       <Portfolio />
       <About />
