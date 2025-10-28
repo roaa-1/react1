@@ -13,6 +13,7 @@ function App() {
       <Navbar />
     // The main section that provides an overview of the website or the person
       <Hero />
+    // Shows previous projects or works in an organized and attractive way
       <Portfolio />
       <About />
       <Contact />
