@@ -1,6 +1,9 @@
 .navbar{
     background-color:#2C3E50 ;
     padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1111;
 }
 .logo{
     font-size: 28px;
